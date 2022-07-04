@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LAVI_KUMAR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lavi-kumar-2a3947241/)](https://www.linkedin.com/in/lavi-kumar-2a3947241/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/1/?ogbl#inbox)](https://mail.google.com/mail/u/1/?ogbl#inbox)
+[![Gmail Badge](https://img.shields.io/badge/StackOverflow-Lavi_kumar-red)](https://mail.google.com/mail/u/1/?ogbl#inbox)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Lavi_kumar-yellow)](https://stackoverflow.com/users/19425707/lavi-kumar)
 
 I'm 
